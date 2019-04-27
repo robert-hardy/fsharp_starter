@@ -1,0 +1,6 @@
+.DS_Store
+packages/
+*.swp
+.paket/
+paket-files/
+*.swo
