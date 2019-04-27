@@ -4,3 +4,4 @@ packages/
 .paket/
 paket-files/
 *.swo
+paket/paket.exe
